@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+.App{
+  display: flex;
+  margin: 0%;
+}
+.infoetname{
+  text-align: left;
+  background-color: #05998D;
+  width: 300px;
+  color: white;
+  padding-left: 3%;
+}
+.experetedu{
+  padding-left: 2%;
+}
+.exp{
+  display: flex;
+  font-family: 'Quicksand';
+}
+.titreskills{
+  background-color: #017C73;
+}
+.quality{
+  margin: 0%;
+}
+.roleetplace{
+  padding-left: 5%;
+}
+.experetedu{
+  color: #696968;
+}
+.experience{
+color: #017C73;
+}
+.infogen{
+  font-family: 'Quicksand';
+}
+.date{
+margin: 0%;
+}
+.span{
+  background-color: white;
+  height: 2%;
+}
+.span1{
+  background-color: #017C73;
+  color: #017C73;
+}
+.spans{
+  padding-bottom: 5%;
+}
